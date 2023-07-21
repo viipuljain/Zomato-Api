@@ -1,2 +1,2 @@
-# Zomato-Api
+# Zomato-API
 A project in working for zomato API 
